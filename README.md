@@ -4,6 +4,11 @@
 
 **바로 사용하기:** https://cho5yj-art.github.io/todo-app/
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.png">
+  <img src="docs/screenshot-light.png" alt="오늘의 할 일 앱 화면: 입력창, 전체·진행 중·완료 보기, 예시 할 일 두 개" width="640">
+</picture>
+
 ## 기능
 
 - 할 일 추가 (입력 후 Enter 또는 "추가" 버튼)
